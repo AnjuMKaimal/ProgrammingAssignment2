@@ -1,4 +1,4 @@
-## makeCacheMatrix function makes a list of of methods with get and set values and inversing matrix 
+## #makeCacheMatrix function makes a list of of methods with get and set values and inversing matrix 
 
 makeCacheMatrix <- function(x = matrix()) {
      inVse1 <- NULL #intialises the inverse
